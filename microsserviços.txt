@@ -1,0 +1,7 @@
+Microsserviço trata-se de uma arquitetura de software onde um ou mais programas de software, rodam separadamente, 
+cada um com sua função, podendo ser utilizados separadamente, em diversas palicações
+ou juntos, em um único projeto, de modo a garantir uma maior flexibilidade no desenvolvimento e maior tolerância a falhas,
+uma vez que é possível dar manutenção em um serviço, sem que isso afete os demais.
+
+Essa flexibilidade, torna esse padrão muito mais ágil, dinânimo e escalável do que o padrão monólito (onde toda a lógica de negócio encotnra-se organizada
+em um único projeto, de muitas vezes, díficil manutenção e escalabilidade).

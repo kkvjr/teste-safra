@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste.Safra.Api", "Teste.Safra.Api\Teste.Safra.Api.csproj", "{82FCE6B8-1240-4E21-AFBB-CC5BBA490795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSafraApi.Tests", "TesteSafraApi.Tests\TesteSafraApi.Tests.csproj", "{752588EE-05F7-43CB-A59C-47AE8FEFA956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82FCE6B8-1240-4E21-AFBB-CC5BBA490795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FCE6B8-1240-4E21-AFBB-CC5BBA490795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FCE6B8-1240-4E21-AFBB-CC5BBA490795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FCE6B8-1240-4E21-AFBB-CC5BBA490795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087A943E-ECD5-4705-99C5-B9FF450C68D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087A943E-ECD5-4705-99C5-B9FF450C68D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087A943E-ECD5-4705-99C5-B9FF450C68D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087A943E-ECD5-4705-99C5-B9FF450C68D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752588EE-05F7-43CB-A59C-47AE8FEFA956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752588EE-05F7-43CB-A59C-47AE8FEFA956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752588EE-05F7-43CB-A59C-47AE8FEFA956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752588EE-05F7-43CB-A59C-47AE8FEFA956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
